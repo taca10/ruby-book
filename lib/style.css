@@ -1,0 +1,22 @@
+
+  .flex_container {
+    display: block;
+  }
+
+  .flex{
+    display: block;
+  }
+
+  .detail_wrap {
+    padding-bottom: 28px;
+    padding-right: 0px;
+  }
+
+  .detail_box {
+    margin: 0 auto;
+  }
+
+  .second_detail_box {
+    margin: 0 auto;
+    width: 433px;
+  }

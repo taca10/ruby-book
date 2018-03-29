@@ -1,0 +1,18 @@
+div.flex {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.detail_box {
+  width: 100%;
+  height: 100%;
+}
+
+.detail_item {
+  padding: 24px 24px 24px 24px;
+}
+
+.second_detail_box {
+  width: 100%;
+  height: 100%;
+}
